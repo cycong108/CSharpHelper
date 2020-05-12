@@ -1,5 +1,4 @@
 # CSharpHelper
-collect my c# helpers
 
 1. DapperHelper
   How to Use?
